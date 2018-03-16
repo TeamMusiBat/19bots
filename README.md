@@ -17,7 +17,7 @@ pkg install python2
 
 
 
-ketik "git clone https://github.com/cismin333/Astrobot"
+ketik "git clone 
 
 
 
